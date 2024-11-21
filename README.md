@@ -1,7 +1,7 @@
 # EX-NO-6-Pseudo-Random-Number
 
-## NAME:MOHAMMED FAIZAL J
-## REG NO:212222100027
+## NAME: praveen ck
+## REG NO:212222243003
 
 
 # AIM: 
